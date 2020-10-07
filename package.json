@@ -1,0 +1,19 @@
+{
+  "name": "zac-footer",
+  "version": "1.0.0",
+  "description": "This is a dynamic footer, with a date using moment",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinvergo93/zac-footer-js.git"
+  },
+  "author": "Zac Invergo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zinvergo93/zac-footer-js/issues"
+  },
+  "homepage": "https://github.com/zinvergo93/zac-footer-js#readme"
+}

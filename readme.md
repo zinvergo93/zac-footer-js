@@ -6,5 +6,5 @@ $ npm install --save zac-footer-js
 ```
 Add to your Javascript Project with the following code:
 ```javascript
-import { footer } from 'zac-footer-js';
+import { footer } from 'zac-footer';
 footer('Some Name');

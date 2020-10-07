@@ -1,6 +1,6 @@
 {
   "name": "zac-footer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a dynamic footer, with a date using moment",
   "main": "bootstrap.js",
   "scripts": {

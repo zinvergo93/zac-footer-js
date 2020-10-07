@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zinvergo93/zac-footer-js/issues"
   },
-  "homepage": "https://github.com/zinvergo93/zac-footer-js#readme"
+  "homepage": "https://github.com/zinvergo93/zac-footer-js#readme",
+  "dependencies": {
+    "devcamp-js-footer": "^0.1.0"
+  }
 }
